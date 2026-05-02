@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\database\\equipment\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\database\\equipment\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\database\\equipment\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\database\\equipment\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\database\\equipment\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\database\\equipment\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\database\\equipment\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\database\\equipment\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\apbd_task2\\database\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\apbd_task2\\database\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|c:\\users\\gdoma\\onedrive\\pulpit\\apbd-cw2\\apbd-cw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CD489-A2D9-6B01-842E-04257D6C0B99}|apbd-cw2\\apbd-cw2.csproj|solutionrelative:apbd-cw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Camera.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Camera.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Camera.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:35:31.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Projector.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Projector.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Projector.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:29:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Laptop.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Laptop.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Laptop.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:26:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Equipment.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Equipment.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Equipment.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Database\\Equipment\\Equipment.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:12:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Program.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Program.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Program.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:03:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Singleton.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\APBD_TASK2\\Database\\Singleton.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\APBD_TASK2\\Database\\Singleton.cs",
+              "RelativeToolTip": "apbd-cw2\\APBD_TASK2\\Database\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:02:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\Program.cs",
+              "RelativeDocumentMoniker": "apbd-cw2\\Program.cs",
+              "ToolTip": "C:\\Users\\gdoma\\OneDrive\\Pulpit\\apbd-cw2\\apbd-cw2\\Program.cs",
+              "RelativeToolTip": "apbd-cw2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T11:58:04.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
